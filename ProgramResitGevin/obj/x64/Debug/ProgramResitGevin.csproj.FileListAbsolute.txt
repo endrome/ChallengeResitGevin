@@ -1,0 +1,16 @@
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\obj\x64\Debug\ProgramResitGevin.csproj.CoreCompileInputs.cache
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\nunit.engine.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\ProgramResitGevin.exe
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\ProgramResitGevin.pdb
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\ChallengeResitGevin.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\nunit.framework.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\ChallengeResitGevin.pdb
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\nunit.framework.pdb
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\bin\x64\Debug\nunit.framework.xml
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\obj\x64\Debug\ProgramResitGevin.csprojAssemblyReference.cache
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\obj\x64\Debug\ProgramResitGevin.csproj.CopyComplete
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\obj\x64\Debug\ProgramResitGevin.exe
+C:\Users\gevin\source\repos\ChallengeResitGevin\ProgramResitGevin\obj\x64\Debug\ProgramResitGevin.pdb

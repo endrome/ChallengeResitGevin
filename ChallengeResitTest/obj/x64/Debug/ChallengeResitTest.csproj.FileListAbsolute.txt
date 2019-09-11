@@ -1,0 +1,16 @@
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\NUnit3.TestAdapter.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\NUnit3.TestAdapter.pdb
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\nunit.engine.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\nunit.engine.api.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\ChallengeResitTest.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\ChallengeResitTest.pdb
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\ChallengeResitGevin.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\nunit.framework.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\ChallengeResitGevin.pdb
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\nunit.framework.pdb
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\bin\x64\Debug\nunit.framework.xml
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\obj\x64\Debug\ChallengeResitTest.csprojAssemblyReference.cache
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\obj\x64\Debug\ChallengeResitTest.csproj.CoreCompileInputs.cache
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\obj\x64\Debug\ChallengeResitTest.csproj.CopyComplete
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\obj\x64\Debug\ChallengeResitTest.dll
+C:\Users\gevin\source\repos\ChallengeResitGevin\ChallengeResitTest\obj\x64\Debug\ChallengeResitTest.pdb
